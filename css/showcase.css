@@ -1,0 +1,79 @@
+#index-01, #index-02, #index-03 {
+  line-height: 1.2; }
+  #index-01 .headline, #index-02 .headline, #index-03 .headline {
+    font-size: 53px;
+    margin: 60px 0 0 0;
+    text-align: center; }
+  #index-01 .tagline, #index-02 .tagline, #index-03 .tagline {
+    font-size: 14px;
+    text-align: center; }
+  #index-01 .things, #index-02 .things, #index-03 .things {
+    display: block;
+    margin: 0 0 20px 0; }
+  #index-01 .things li, #index-02 .things li, #index-03 .things li {
+    display: inline-block;
+    float: left;
+    margin: 50px 0 0 0;
+    width: 300px; }
+    #index-01 .things li img, #index-02 .things li img, #index-03 .things li img {
+      margin: 0 0 0 25%; }
+  #index-01 .thing-title, #index-02 .thing-title, #index-03 .thing-title {
+    font-size: 24px;
+    margin: 20px 0;
+    text-align: center; }
+  #index-01 .thing-description, #index-01 .points, #index-02 .thing-description, #index-02 .points, #index-03 .thing-description, #index-03 .points {
+    margin: 0 auto;
+    width: 260px; }
+  #index-01 .thing-description, #index-02 .thing-description, #index-03 .thing-description {
+    font-size: 14px;
+    font-weight: 700;
+    height: 80px; }
+  #index-01 .points, #index-02 .points, #index-03 .points {
+    font-size: 12px;
+    margin: 10px auto; }
+  #index-01 .points li, #index-02 .points li, #index-03 .points li {
+    margin: 10px 0;
+    padding: 0 0 0 1rem;
+    text-indent: -1rem;
+    width: 250px; }
+    #index-01 .points li:before, #index-02 .points li:before, #index-03 .points li:before {
+      content: "â€”" " "; }
+  #index-01 .tab, #index-02 .tab, #index-03 .tab {
+    display: inline-block;
+    width: 15px;
+    height: 1px;
+    margin: 0 0 0 15px; }
+
+#index-01 {
+  background: url("../images/overtheledge-blur.jpg") no-repeat top left;
+  background-size: cover;
+  color: #fefefe;
+  font-size: 53px;
+  height: 650px;
+  overflow: hidden;
+  text-shadow: 0.5px 1.5px 2px #191919; }
+  #index-01 .info {
+    line-height: 1.1;
+    margin: 144px 0 0 0; }
+  #index-01 .iphone {
+    margin: 56px 0 0 0; }
+
+#index-03 {
+  background: #00aef4;
+  color: #fefefe; }
+
+.internal-wrapper {
+  width: 900px;
+  height: auto;
+  margin: 0 auto; }
+
+.left, .right {
+  display: inline-block; }
+
+.left {
+  float: left;
+  width: 60%; }
+
+.right {
+  float: right;
+  width: 40%; }
