@@ -104,7 +104,6 @@ var Page = (function() {
 	}
 
 	function setJSP( action, idx ) {
-	return;
 		
 		var idx = idx === undefined ? current : idx,
 			$content = $items.eq( idx ).children( 'div.content' ),

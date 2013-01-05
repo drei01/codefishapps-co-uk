@@ -29,8 +29,7 @@
 				<div id="bb-bookblock" class="bb-bookblock">
 					<div class="bb-item" id="item1">
 						<div class="content">
-							<div class="scroller">
-								<div class="wrapper">
+							<div class="wrapper">
       								<section id="index-01" class="content-box">
 
         								<div class="internal-wrapper cf">
@@ -45,7 +44,6 @@
 
       								</section>
     							</div>
-							</div>
 						</div>
 					</div>
 				</div>
