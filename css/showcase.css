@@ -100,4 +100,8 @@
 	#index-01 {
 		font-size: 33px;
 	}
+	
+	#bb-item{
+		min-height: 500px;
+	}
 }
