@@ -11,7 +11,7 @@
 		<link rel="shortcut icon" href="../favicon.ico"> 
 		<link rel="stylesheet" type="text/css" href="css/jquery.jscrollpane.custom.css" />
 		<link rel="stylesheet" type="text/css" href="css/bookblock.css" />
-		<link rel="stylesheet" type="text/css" href="css/custom.css?v=3" />
+		<link rel="stylesheet" type="text/css" href="css/custom.css?v=4" />
 		<link rel="stylesheet" type="text/css" href="css/showcase.css" />
 		<script src="js/modernizr.custom.79639.js"></script>
 	</head>
