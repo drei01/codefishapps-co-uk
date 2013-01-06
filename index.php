@@ -39,7 +39,7 @@
           									</div>
 
           									<div class="right iphone">
-            									<img src="images/iphone5.png"/>
+            									<img src="images/galaxy-nexus.png"/>
           									</div>
         								</div>
 
