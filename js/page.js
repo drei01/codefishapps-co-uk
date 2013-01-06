@@ -17,10 +17,6 @@ var Page = (function() {
 				updateTOC();
 				// updateNavigation
 				updateNavigation( isLimit );
-				// initialize jScrollPane on the content div for the new item
-				setJSP( 'init' );
-				// destroy jScrollPane on the content div for the old item
-				setJSP( 'destroy', old );
 
 			}
 		} ),
@@ -39,9 +35,6 @@ var Page = (function() {
 		supportTransitions = Modernizr.csstransitions;
 
 	function init() {
-
-		// initialize jScrollPane on the content div of the first item
-		setJSP( 'init' );
 		initEvents();
 
 	}
@@ -93,12 +86,6 @@ var Page = (function() {
 
 			return false;
 			
-		} );
-
-		// reinit jScrollPane on window resize
-		$( window ).on( 'debouncedresize', function() {
-			// reinitialise jScrollPane on the content div
-			setJSP( 'reinit' );
 		} );
 
 	}
