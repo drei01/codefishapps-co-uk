@@ -257,7 +257,7 @@ a:hover {
 	}
 }
 
-@media screen and (max-height: 200px){
+@media screen and (max-height: 600px){
 	.js .content {
 		height:100%;
 	}
