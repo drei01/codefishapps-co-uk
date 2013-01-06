@@ -261,4 +261,7 @@ a:hover {
 	.js .content {
 		height:100%;
 	}
+	#bb-item{
+		min-height: 500px;
+	}
 }
