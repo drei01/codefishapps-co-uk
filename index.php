@@ -35,18 +35,15 @@
 
         								<div class="internal-wrapper cf">
          									<div class="left info">
-            									Find out what's on Freeview from the comfort of your palm
-          									</div>
-          									
-          									<div class="left">
-          										<a href="http://play.google.com/store/apps/details?id=org.codefish.fixturefeedpro">
+            									Find out what's on Freeview from the comfort of your palm.
+            									<a href="http://play.google.com/store/apps/details?id=org.codefish.fixturefeedpro">
   													<img alt="Android app on Google Play" src="http://developer.android.com/images/brand/en_generic_rgb_wo_60.png" width="60"/>
 												</a>
           									</div>
 
           									<div class="right phone">
-            									<img src="images/galaxy-nexus.png"/>
-            									<img src="images/screenshots/fixturefeed.png" class="screenshot"/>
+            									<img src="images/galaxy-nexus.png" width="353"/>
+            									<img src="images/screenshots/fixturefeed.png" width="290" class="screenshot"/>
           									</div>
         								</div>
 

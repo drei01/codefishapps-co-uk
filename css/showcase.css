@@ -61,6 +61,8 @@
     }
   #index-01 .screenshot{
   	position: absolute;
+	top: 111px;
+	left: 30px;
   }
 
 #index-03 {
