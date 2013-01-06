@@ -196,7 +196,7 @@ a:hover {
 	padding: 10px 5% 10px 5%;
 }
 
-.js .content:before,
+/*.js .content:before,
 .js .content:after {
 	content: '';
 	position: absolute;
@@ -219,7 +219,7 @@ a:hover {
 	background: -moz-linear-gradient(bottom, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
 	background: -o-linear-gradient(bottom, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
 	background: linear-gradient(to top, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
-}
+}*/
 
 .content h2 {
 	font-weight: 300;

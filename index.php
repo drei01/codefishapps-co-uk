@@ -37,7 +37,7 @@
          									<div class="left info">
             									Find out what's on Freeview from the comfort of your palm.
             									<a href="http://play.google.com/store/apps/details?id=org.codefish.fixturefeedpro">
-  													<img alt="Android app on Google Play" src="http://developer.android.com/images/brand/en_generic_rgb_wo_60.png" width="60"/>
+  													<img alt="Android app on Google Play" src="http://developer.android.com/images/brand/en_generic_rgb_wo_60.png" height="60" class="app-link"/>
 												</a>
           									</div>
 
