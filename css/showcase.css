@@ -55,8 +55,13 @@
   #index-01 .info {
     line-height: 1.1;
     margin: 144px 0 0 0; }
-  #index-01 .iphone {
-    margin: 56px 0 0 0; }
+  #index-01 .phone {
+    margin: 56px 0 0 0; 
+    position: relative;
+    }
+  #index-01 .screenshot{
+  	position: absolute;
+  }
 
 #index-03 {
   background: #00aef4;
