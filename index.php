@@ -4,7 +4,7 @@
 		<meta charset="UTF-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-		<title>CodeFish | Just what you need</title>
+		<title>CodeFish Android Apps | Just what you need</title>
 		<meta name="description" content="Download useful android and iPhone apps from CodeFish. Just what you need." />
 		<meta name="keywords" content="apps android iPhone code fish codfish" />
 		<meta name="author" content="CodeFish" />
