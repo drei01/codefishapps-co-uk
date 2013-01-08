@@ -30,10 +30,10 @@
 	<body>
 		<div itemscope itemtype="http://schema.org/SoftwareApplication" style="display:none;">
 
-<img itemprop="image" src="https://ssl.gstatic.com/android/market/org.codefish.fixturefeedpro/hi-124-11" />
+<img itemprop="image" src="https://lh6.ggpht.com/JeGZ8X8HjmK78GwXxEZEwvdKbuRzZOU3sHOJeE8QkWrg-oI3SgIIOQ389iLfW9dFqA=w124" />
 <span itemprop="name">FixtureFeed Pro</span> -
 <div itemprop="author" itemscope itemtype="http://schema.org/Organization">
-<a itemprop="url" href="http://zeptolab.com"><span itemprop="name">CodeFish</span></a>
+<a itemprop="url" href="http://www.codefish.co.uk"><span itemprop="name">CodeFish</span></a>
 </div>
 
 <span itemprop="description">Ever wanted to know what football (soccer) is on british freeview? Well now you can!
