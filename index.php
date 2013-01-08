@@ -28,7 +28,7 @@
 </script>
 	</head>
 	<body>
-		<div itemscope itemtype="http://schema.org/SoftwareApplication">
+		<div itemscope itemtype="http://schema.org/SoftwareApplication" style="display:none;">
 
 <img itemprop="image" src="https://ssl.gstatic.com/android/market/org.codefish.fixturefeedpro/hi-124-11" />
 <span itemprop="name">FixtureFeed Pro</span> -
@@ -47,7 +47,7 @@ Introducing the Pro version of FixtureFeed.
 CONTENT RATING: <span itemprop="contentRating">Everyone</span>
 UPDATED: <time itemprop="datePublished" datetime="2011-06-30">August 15, 2011</time>
 REQUIRES <span itemprop="operatingSystems">ANDROID</span>: <span itemprop="operatingSystemVersion">2.1</span> and up
-<link itemprop="SoftwareApplicationCategory" href="http://schema.org/GameApplication"/>
+<link itemprop="SoftwareApplicationCategory" href="http://schema.org/SportsApplication"/>
 CATEGORY: <span itemprop="SoftwareApplicationSubCategory">Sports</span>
 SIZE: 689k
 <meta itemprop="fileSize" content="689000"/>
