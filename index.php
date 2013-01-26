@@ -126,10 +126,10 @@ Outstanding game and very cheap for how awesome it is. </span>
 
         									<div class="internal-wrapper cf">
          										<div class="left info">
-            										Find the nearest coffee from anywhere.
+            										Find the nearest brewtus from anywhere.
             										<br/>
-            										<a href="http://drei01.github.com/CoffeeMaps" class="clean-grey">
-  														Launch
+            										<a href="http://drei01.github.com/CoffeeMaps" target="_blank" class="clean-grey">
+  														Show me
 													</a>
           										</div>
 
