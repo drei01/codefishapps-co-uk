@@ -141,6 +141,7 @@ Outstanding game and very cheap for how awesome it is. </span>
     							</div>
 							</div>
 						</div>
+						</div>
 					</div>
 				</div>
 				
