@@ -127,6 +127,7 @@ Outstanding game and very cheap for how awesome it is. </span>
         									<div class="internal-wrapper cf">
          										<div class="left info">
             										Find the nearest coffee from anywhere.
+            										<br/>
             										<a href="http://drei01.github.com/CoffeeMaps" class="clean-grey">
   														Launch
 													</a>
@@ -144,13 +145,13 @@ Outstanding game and very cheap for how awesome it is. </span>
 							</div>
 						</div>
 				</div>
-			</div>	
 				<nav>
 					<span id="bb-nav-prev">&larr;</span>
 					<span id="bb-nav-next">&rarr;</span>
 				</nav>
 
 				<span id="tblcontents" class="menu-button">Menu</span>
+			</div>	
 
 			</div>
 				
