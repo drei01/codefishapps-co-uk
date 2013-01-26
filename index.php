@@ -65,7 +65,7 @@ Reviews:
 <div itemprop="reviews" itemscope itemtype="http://schema.org/Review">
  <span itemprop="reviewRating">3</span> stars -
  <b>"<span itemprop="name">A masterpiece</span>" </b>
- by <span itemprop="author">Winston</span>,
+ by <span itemprop="author">CodeFish</span>,
  Written on <time itemprop="publishDate" datetime="2011-07-13">July 13, 2011</time>
  <span itemprop="reviewBody">Finally this amazing game has come to Android! 
 Outstanding game and very cheap for how awesome it is. </span>
@@ -87,6 +87,7 @@ Outstanding game and very cheap for how awesome it is. </span>
 				<h3>CodeFish</h3>
 				<ul id="menu-toc" class="menu-toc">
 					<li class="menu-toc-current"><a href="#item1">FixtureFeed</a></li>
+					<li class="menu-toc-current"><a href="#item2">CoffeeMaps</a></li>
 				</ul>
 			</div>
 
@@ -109,6 +110,30 @@ Outstanding game and very cheap for how awesome it is. </span>
           									<div class="right phone">
             									<img src="images/galaxy-nexus.png" width="353"/>
             									<img src="images/screenshots/fixturefeed.png" width="290" class="screenshot"/>
+          									</div>
+        								</div>
+
+      								</section>
+    							</div>
+							</div>
+						</div>
+						<div class="bb-item" id="item2">
+						<div class="content">
+							<div class="scroller">
+								<div class="wrapper">
+      								<section id="index-01" class="content-box">
+
+        								<div class="internal-wrapper cf">
+         									<div class="left info">
+            									Find the nearest coffee from anywhere.
+            									<a href="http://drei01.github.com/CoffeeMaps">
+  													Launch
+												</a>
+          									</div>
+
+          									<div class="right phone">
+            									<img src="images/galaxy-nexus.png" width="353"/>
+            									<img src="images/screenshots/coffeemaps.png" width="290" class="screenshot"/>
           									</div>
         								</div>
 
