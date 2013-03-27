@@ -98,11 +98,11 @@ Outstanding game and very cheap for how awesome it is. </span>
 							<div class="content">
 								<div class="scroller">
 									<div class="wrapper">
-      									<section id="index-01" class="content-box">
+      									<section id="index-01" class="content-box" style="url('../images/bakeoff_bg.jpg') no-repeat top left;">
 
         									<div class="internal-wrapper cf">
          										<div class="left info">
-            										Find the nearest brewtus from anywhere.
+            										Discover recipes, challenge your friends
             										<a href="http://join.bakeoff.co" target="_blank" class="clean-grey">
   														Signup
 													</a>
