@@ -86,15 +86,40 @@ Outstanding game and very cheap for how awesome it is. </span>
 			<div class="menu-panel">
 				<h3>CodeFish</h3>
 				<ul id="menu-toc" class="menu-toc">
-                    <li class="menu-toc-current"><a href="#item3">BakeOff</a></li>
-					<li class="menu-toc-current"><a href="#item1">FixtureFeed</a></li>
-					<li class="menu-toc-current"><a href="#item2">CoffeeMaps</a></li>
+                    <li class="menu-toc-current"><a href="#item1">BakeOff</a></li>
+					<li class="menu-toc-current"><a href="#item2">FixtureFeed</a></li>
+					<li class="menu-toc-current"><a href="#item3">CoffeeMaps</a></li>
 				</ul>
 			</div>
 
 			<div class="bb-custom-wrapper">
 				<div id="bb-bookblock" class="bb-bookblock">
-					<div class="bb-item" id="item1">
+                    <div class="bb-item" id="item1">
+							<div class="content">
+								<div class="scroller">
+									<div class="wrapper">
+      									<section id="index-01" class="content-box">
+
+        									<div class="internal-wrapper cf">
+         										<div class="left info">
+            										Find the nearest brewtus from anywhere.
+            										<a href="http://join.bakeoff.co" target="_blank" class="clean-grey">
+  														Signup
+													</a>
+          										</div>
+
+          										<div class="right phone">
+            										<img src="images/galaxy-nexus.png" width="353"/>
+            										<img src="images/screenshots/bakeoff.png" width="290" class="screenshot"/>
+          										</div>
+        									</div>
+
+      									</section>
+    								</div>
+								</div>
+							</div>
+						</div>
+					<div class="bb-item" id="item2">
 						<div class="content">
 							<div class="scroller">
 								<div class="wrapper">
@@ -119,7 +144,7 @@ Outstanding game and very cheap for how awesome it is. </span>
 							</div>
 						</div>
 					</div>
-					<div class="bb-item" id="item2">
+					<div class="bb-item" id="item3">
 							<div class="content">
 								<div class="scroller">
 									<div class="wrapper">
@@ -136,31 +161,6 @@ Outstanding game and very cheap for how awesome it is. </span>
           										<div class="right phone">
             										<img src="images/galaxy-nexus.png" width="353"/>
             										<img src="images/screenshots/coffeemaps.png" width="290" class="screenshot"/>
-          										</div>
-        									</div>
-
-      									</section>
-    								</div>
-								</div>
-							</div>
-						</div>
-                    <div class="bb-item" id="item3">
-							<div class="content">
-								<div class="scroller">
-									<div class="wrapper">
-      									<section id="index-01" class="content-box">
-
-        									<div class="internal-wrapper cf">
-         										<div class="left info">
-            										Find the nearest brewtus from anywhere.
-            										<a href="http://join.bakeoff.co" target="_blank" class="clean-grey">
-  														Signup
-													</a>
-          										</div>
-
-          										<div class="right phone">
-            										<img src="images/galaxy-nexus.png" width="353"/>
-            										<img src="images/screenshots/bakeoff.png" width="290" class="screenshot"/>
           										</div>
         									</div>
 
