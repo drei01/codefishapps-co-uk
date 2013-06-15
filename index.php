@@ -103,8 +103,8 @@ Outstanding game and very cheap for how awesome it is. </span>
         									<div class="internal-wrapper cf">
          										<div class="left info">
             										Discover recipes, challenge your friends
-            										<a href="http://join.bakeoff.co" target="_blank" class="clean-grey">
-  														Signup
+            										<a href="http://www.bakeoff.co" target="_blank" class="clean-grey">
+  														Launch
 													</a>
           										</div>
 
