@@ -124,7 +124,7 @@ Outstanding game and very cheap for how awesome it is. </span>
 							<div class="content">
 								<div class="scroller">
 									<div class="wrapper">
-      									<section id="index-01" class="content-box" style="background: url('../images/jock_or_not.jpg') no-repeat top left;">
+      									<section id="index-01" class="content-box">
 
         									<div class="internal-wrapper cf">
          										<div class="left info">
@@ -136,7 +136,7 @@ Outstanding game and very cheap for how awesome it is. </span>
 
           										<div class="right phone">
             										<img src="images/galaxy-nexus.png" width="353"/>
-            										<img src="images/screenshots/bakeoff.png" width="290" class="screenshot"/>
+            										<img src="images/screenshots/jock_or_not.png" width="290" class="screenshot"/>
           										</div>
         									</div>
 
